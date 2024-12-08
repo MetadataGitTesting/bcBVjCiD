@@ -1,0 +1,49 @@
+name: muoi.keeling
+description: focus group
+version: 0.1.6.718
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: muoikeeling
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:41:01'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:41:01'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:41:01.506734Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '1150368384'
+  createdAt: '2024-12-08T20:41:01.506734Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
